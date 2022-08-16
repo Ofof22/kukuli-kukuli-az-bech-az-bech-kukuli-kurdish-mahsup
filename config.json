@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "1005890509048401920",
+        "secret": "Pfghy5UZOoG5phn9hcQ-LL1hJ4wYcHEG",
+        "token": "MTAwNTg5MDUwOTA0ODQwMTkyMA.G24S_z.HrqrUfzygYKMzUdtpEzqE2PlFOyL3R3D7PRPVM"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://www.safeuptime.ml",
+        "callback": "https://www.safeuptime.ml/callback",
+        "discord_server_ID": "931171889685073941",
+        "owners": [
+            "830008975335489567","934809585389305916"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://aga:agaaga0629@cluster0.vonr0.mongodb.net/cluster0?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/NEhwDWnBbe"
+}
